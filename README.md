@@ -1,9 +1,10 @@
-<H3>ENTER YOUR NAME: SYED ABDUL WASIH H</H3>
-<H3>ENTER YOUR REGISTER NO. 212221240057</H3>
+<H3>NAME: SYED ABDUL WASIH H</H3>
+<H3>REG NO.: 212221240057</H3>
 <H3>EX.NO.6</H3>
 <H3>DATE: 23.04 2024</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
-<H3>Aim: to perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </H3> 
+<H3>Aim: </H3>
+To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques.  
  <BR>
 <h3>Algorithm:</h3>
 Step 1: Import the nltk library.<br>
